@@ -1,0 +1,29 @@
+body {
+  background: darkgray;
+}
+
+.welcomeDiv {
+  color: red;
+  font-family: "SNES", "helvetica neue", "sans-serif", "arial";
+  margin: 50px;
+  font-size: 300%;
+  text-align: center;
+}
+
+#hangmanDiv {
+  font-family: "Press Start 2P", "SNES";
+  background-color: black;
+  color: white;
+  font-size: 200%;
+  margin: 75px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 410px;
+  width: 45%;
+  height: 800px;
+  clear:both;
+  padding: 5 px;
+  text-align: center;
+  line-height: 35px; 
+}
+
