@@ -18,11 +18,11 @@ body {
   margin: 75px;
   margin-top: 25px;
   margin-bottom: 25px;
-  margin-left: 410px;
-  width: 45%;
-  height: 800px;
+  margin-left: 350px;
+  width: 50%;
+  height: 200px;
   clear:both;
-  padding: 5 px;
+  padding-top: 120px;
   text-align: center;
   line-height: 35px; 
 }
